@@ -1,5 +1,12 @@
 # Material-Discord-Spin
-Material discord theme by CapnKitten with defult windows titlebar icons and making it purpleish
+#### Material discord theme by CapnKitten with defult windows titlebar icons and making it purpleish
+<hr>
 
+Current version: v1.0.1 (20/10/2023)
 
-original link: https://github.com/CapnKitten/Material-Discord
+Vencord link
+```
+https://raw.githubusercontent.com/Wilk-22/Material-Discord-Spin/main/Material-Discord.theme.css
+```
+
+#### original theme: https://github.com/CapnKitten/Material-Discord
