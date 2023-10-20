@@ -6,7 +6,7 @@ Current version: v1.0.1 (20/10/2023)
 
 Vencord link
 ```
-https://raw.githubusercontent.com/Wilk-22/Material-Discord-Spin/Testing/source/main.theme.css
+https://raw.githubusercontent.com/Wilk-22/Material-Discord-Spin/main/source/main.theme.css
 ```
 
 #### original theme: https://github.com/CapnKitten/Material-Discord
