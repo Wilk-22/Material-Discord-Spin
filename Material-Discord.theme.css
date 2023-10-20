@@ -1,16 +1,16 @@
 /**
  * @name Material Discord Spin
- * @version 3.0.4
+ * @version 1.0.1
  * @description A theme based on CapnKitten's Material Discord Theme with Windows Titlebar
  * @author Wilk22
  *
  * @website https://github.com/Wilk-22
- * @source https://github.com/Wilk-22
+ * @source https://raw.githubusercontent.com/Wilk-22/Material-Discord-Spin/main/Material-Discord.theme.css
  */
 
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css);
+@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css");
 
 :root {
   --app-font: "Google Sans";
