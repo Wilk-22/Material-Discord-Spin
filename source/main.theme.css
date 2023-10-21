@@ -5,7 +5,7 @@
 :root {
   --app-font: "Google Sans";
   --app-bg: var(--main-alt);
-  --accent-hue: 224;
+  --accent-hue: 220;
   --accent-saturation: 71%;
   --accent-lightness: 61%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
@@ -15599,35 +15599,6 @@ body:active .menu-KSaHL1:not(:active) {
     box-shadow: 0 0 6px hsla(var(--accent-hsl), 0.3);
   }
 }
-
-/*
- *
- *	EASY EDIT
- *
- */
-
-:root {
-	--accent-hue: 270;
-	--accent-saturation: 71%;
-	--accent-lightness: 61%;
-	--accent-text-color: #fff;
-	--accent-button-action: #fff; /*	-	*/
-
-	--avatar-radius: 50%; /*	-	*/
-
-	--message-radius: 19px;
-	--message-padding-top: 8px;
-	--message-padding-side: 12px; /*	-	*/
-
-	--media-radius: 19px; /*	-	*/
-
-	--card-radius: 8px;
-	--card-radius-big: 18px; /*	-	*/
-
-	--popout-radius: 8px;
-	--popout-radius-big: 18px;
-}
-
 
 .theme-dark {
     --saturation-modifier: 0.175;
