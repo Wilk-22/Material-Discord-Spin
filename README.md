@@ -1,7 +1,7 @@
 # Material-Discord-Spin
 #### Material discord theme by CapnKitten with default windows title bar icons
 <hr>
-
+## Archived
 Current version: v1.1.1 (20/10/2023)
 
 Vencord link
