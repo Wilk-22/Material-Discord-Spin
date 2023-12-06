@@ -1,13 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;300;400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Consolas:wght@100;300;400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Consolas:wght@100;300;400;500;700&display=swap");
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
-@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css");
 :root {
-  :root {
-  --font-primary: Open Sans;
-  --font-code: Consolas;
+  --app-font: Open Sans;
   --app-bg: var(--main-alt);
-  --accent-hue: 224;
+  --accent-hue: 220;
   --accent-saturation: 71%;
   --accent-lightness: 61%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
@@ -262,6 +259,8 @@ body,
   color: hsl(var(--accent-hsl));
 }
 
+
+
 /* APP ELEMENTS -> LOADING ICONS */
 .path__5eb4b,
 .path2__7fbdb,
@@ -280,6 +279,7 @@ body,
 .wanderingCubes_ce37c6 .item__0e5d6 {
   background-color: hsl(var(--accent-hsl--material-you));
 }
+
 
 /*
  *
