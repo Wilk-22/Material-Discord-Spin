@@ -4,7 +4,7 @@
 
 
 
-Current version: v1.1.1 (20/10/2023)
+Current version: v2.0 (06/12/2023)
 
 Vencord link
 ```
